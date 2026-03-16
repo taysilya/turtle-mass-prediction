@@ -60,7 +60,7 @@
 Установка:
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🔍 Ход работы
 1. EDA:
 
